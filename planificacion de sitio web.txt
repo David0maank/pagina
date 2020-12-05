@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+ 
+(A) crear sitio web que de imformacion sobre  series, películas ,anime.
+
+
+(B) Objetivos 
+a quien va dirigido:
+es un sitio web personal  
+ Va dirigido a las personas que ven series,anime que quieran conocer nuevos avances de sus series y animes favoritos y estrenos de peliculas
+
+el objetivo del sitio web sera  para comunicar  los avances y noticias sobre las seies y películas 
+dar información sobre las series, peliculas y recomendaciones de series y películas.
+
+(C) recopilar información
+recopilar imformacion sobre noticias estrenos de series y películas,  video, texto, imágenes, . 
+
+(D)  organización 
+
+al entrar al sitio se muestra el logo de la pagina y un menu con los diferentes temas de 
+el sitio estara dividido por temas relacionados con el sitio, en donde se mostrara el contenido de cada tema
+
+(E) creación de directorio
+La pagina esta conformada por una pagina principal, en la que esta la presentación del sitio un menú a una pagina con información de avances de series y otra pagina para películas y anime una pagina con imformacion acerca de este  sitio web. 
+
+ 
